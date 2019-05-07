@@ -1,0 +1,82 @@
+{
+  "countries": [
+    {
+      "name": "Engineering",
+      "population": 4390000,
+      "global_score": 140,
+      "neighbors": [
+        "Hotel",
+        "A&S"
+      ]
+    },
+    {
+      "name": "A&S",
+      "population": 3239000,
+      "global_score": 400,
+      "neighbors": [
+        "Engineering",
+        "HumEc",
+        "Hotel",
+        "ILR",
+        "AAP"
+      ]
+    },
+    {
+      "name": "HumEc",
+      "population": 1250000,
+      "global_score": 70,
+      "neighbors": [
+        "A&S",
+        "CALS"
+      ]
+    },
+    {
+      "name": "AAP",
+      "population": 496000,
+      "global_score": 40,
+      "neighbors": [
+        "A&S",
+        "HumEc"
+      ]
+    },
+    {
+      "name": "CALS",
+      "population": 3390000,
+      "global_score": 230,
+      "neighbors": [
+        "ILR",
+        "HumEc"
+      ]
+    },
+    {
+      "name": "Hotel",
+      "population": 960000,
+      "global_score": 30,
+      "neighbors": [
+        "Engineering",
+        "A&S",
+        "ILR"
+      ]
+    },
+    {
+      "name": "ILR",
+      "population": 950000,
+      "global_score": 50,
+      "neighbors": [
+        "Hotel",
+        "Arts",
+        "CALS"
+      ]
+    }
+  ],
+  "evolutions": [
+    {
+      "name": "Polar Vortex",
+      "point_value": 50000
+    },
+    {
+      "name": "Gannett Sucks",
+      "point_value": 200000
+    }
+  ]
+}

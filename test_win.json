@@ -1,0 +1,19 @@
+{
+  "countries": [
+    {
+      "name": "string",
+      "population": 0,
+      "global_score": 0,
+      "neighbors": [
+        "country1",
+        "country2"
+      ]
+    }
+  ],
+  "evolutions": [
+    {
+      "name": "string",
+      "point_value": 0
+    }
+  ]
+}

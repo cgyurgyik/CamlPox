@@ -1,0 +1,988 @@
+{
+  "countries": [
+    {
+      "name": "China",
+      "population": 1409517397,
+      "global_score": 216,
+      "neighbors": [
+        "USA",
+        "India",
+        "Brazil",
+        "Mexico",
+        "Japan",
+        "Egypt",
+        "United Arab Emirates",
+        "Russia",
+        "Germany",
+        "South Korea",
+        "Turkey",
+        "Myanmar",
+        "North Korea",
+        "Israel",
+        "Vietnam",
+        "Canada",
+        "Switzerland",
+        "UK"
+      ]
+    },
+    {
+      "name": "India",
+      "population": 339180127,
+      "global_score": 215,
+      "neighbors": [
+        "China",
+        "India",
+        "Brazil",
+        "Mexico",
+        "Japan",
+        "Egypt",
+        "United Arab Emirates",
+        "Russia",
+        "Germany",
+        "South Korea",
+        "Turkey",
+        "Myanmar",
+        "North Korea",
+        "Israel",
+        "Vietnam",
+        "Canada",
+        "Switzerland",
+        "UK",
+        "Bangladesh",
+        "Nepal"
+      ]
+    },
+    {
+      "name": "USA",
+      "population": 324459463,
+      "global_score": 214,
+      "neighbors": [
+        "China",
+        "India",
+        "Brazil",
+        "Mexico",
+        "Japan",
+        "Egypt",
+        "United Arab Emirates",
+        "Russia",
+        "Germany",
+        "South Korea",
+        "Turkey",
+        "Myanmar",
+        "North Korea",
+        "Israel",
+        "Vietnam",
+        "Canada",
+        "Switzerland",
+        "UK",
+        "Pakistan",
+        "France",
+        "Argentina",
+        "Iran",
+        "Spain",
+        "Greece",
+        "Cuba"
+      ]
+    },
+    {
+      "name": "Indonesia",
+      "population": 263991379,
+      "global_score": 213,
+      "neighbors": [
+        "China",
+        "India",
+        "Bangladesh",
+        "Pakistan",
+        "Australia",
+        "Malaysia",
+        "Philippines"
+      ]
+    },
+    {
+      "name": "Brazil",
+      "population": 209288278,
+      "global_score": 212,
+      "neighbors": [
+        "Chile",
+        "USA",
+        "India",
+        "Canada",
+        "Australia",
+        "Venezuela",
+        "Peru",
+        "Ecuador",
+        "Spain",
+        "USA"
+      ]
+    },
+    {
+      "name": "Pakistan",
+      "population": 197015955,
+      "global_score": 211,
+      "neighbors": [
+        "China",
+        "India",
+        "Egypt",
+        "United Arab Emirates",
+        "Russia",
+        "Germany",
+        "South Korea",
+        "Turkey",
+        "North Korea",
+        "Israel",
+        "Vietnam",
+        "Canada",
+        "Switzerland",
+        "UK",
+        "France",
+        "Iran",
+        "Greece",
+        "USA"
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "population": 190886311,
+      "global_score": 210,
+      "neighbors": [
+        "Ghana",
+        "USA",
+        "China",
+        "India",
+        "Russia",
+        "Ethiopia",
+        "Cameroon",
+        "Niger"
+      ]
+    },
+    {
+      "name": "Bangladesh",
+      "population": 164669751,
+      "global_score": 209,
+      "neighbors": [
+        "China",
+        "India",
+        "Brazil",
+        "Mexico",
+        "Japan",
+        "Egypt",
+        "United Arab Emirates",
+        "Russia",
+        "Germany",
+        "South Korea",
+        "Turkey",
+        "Myanmar"
+      ]
+    },
+    {
+      "name": "Russia",
+      "population": 143989754,
+      "global_score": 208,
+      "neighbors": [
+        "China",
+        "India",
+        "Brazil",
+        "Mexico",
+        "Japan",
+        "Egypt",
+        "United Arab Emirates",
+        "Russia",
+        "Germany",
+        "South Korea",
+        "Turkey",
+        "Myanmar",
+        "North Korea",
+        "Israel",
+        "Vietnam",
+        "Canada",
+        "Switzerland",
+        "UK",
+        "Pakistan",
+        "France",
+        "Argentina",
+        "Iran",
+        "Spain",
+        "Greece",
+        "Cuba",
+        "Poland"
+      ]
+    },
+    {
+      "name": "Mexico",
+      "population": 129163276,
+      "global_score": 207,
+      "neighbors": [
+        "China",
+        "India",
+        "Brazil",
+        "Mexico",
+        "Japan",
+        "Egypt",
+        "United Arab Emirates",
+        "Russia",
+        "Germany",
+        "South Korea",
+        "Argentina",
+        "Peru",
+        "North Korea",
+        "Israel",
+        "Vietnam",
+        "Canada",
+        "Switzerland",
+        "UK",
+        "Pakistan",
+        "France",
+        "Argentina",
+        "Iran",
+        "Spain",
+        "Venezuela",
+        "Cuba",
+        "Ecuador"
+      ]
+    },
+    {
+      "name": "Japan",
+      "population": 127484450,
+      "global_score": 206,
+      "neighbors": [
+        "USA",
+        "India",
+        "Brazil",
+        "Mexico",
+        "Japan",
+        "Egypt",
+        "United Arab Emirates",
+        "Russia",
+        "Germany",
+        "South Korea",
+        "Turkey",
+        "Myanmar",
+        "North Korea",
+        "Israel",
+        "Vietnam",
+        "Canada",
+        "Switzerland",
+        "UK"
+      ]
+    },
+    {
+      "name": "Ethiopia",
+      "population": 104957438,
+      "global_score": 205,
+      "neighbors": [
+        "Ghana",
+        "USA",
+        "China",
+        "India",
+        "Russia",
+        "Congo",
+        "Cameroon",
+        "Niger",
+        "Italy",
+        "South Africa"
+      ]
+    },
+    {
+      "name": "Philippines",
+      "population": 104918090,
+      "global_score": 204,
+      "neighbors": [
+        "China",
+        "India",
+        "Bangladesh",
+        "Pakistan",
+        "Australia",
+        "Malaysia",
+        "Philippines"
+      ]
+    },
+    {
+      "name": "Egypt",
+      "population": 97553151,
+      "global_score": 203,
+      "neighbors": [
+        "China",
+        "India",
+        "Egypt",
+        "United Arab Emirates",
+        "Russia",
+        "Germany",
+        "South Korea",
+        "Turkey",
+        "North Korea",
+        "Israel",
+        "Vietnam",
+        "Canada",
+        "Switzerland",
+        "UK",
+        "France",
+        "Iran",
+        "Greece",
+        "USA"
+      ]
+    },
+    {
+      "name": "Vietnam",
+      "population": 95540800,
+      "global_score": 201,
+      "neighbors": [
+        "Russia",
+        "China",
+        "India",
+        "Bangladesh",
+        "Pakistan",
+        "Australia",
+        "Malaysia",
+        "Philippines"
+      ]
+    },
+    {
+      "name": "Congo",
+      "population": 81339988,
+      "global_score": 200,
+      "neighbors": [
+        "Ghana",
+        "USA",
+        "China",
+        "India",
+        "Russia",
+        "Congo",
+        "Cameroon",
+        "Niger",
+        "Italy",
+        "South Africa"
+      ]
+    },
+    {
+      "name": "Germany",
+      "population": 82114224,
+      "global_score": 199,
+      "neighbors": [
+        "Switzerland",
+        "Sweden",
+        "USA",
+        "Greece",
+        "Japan",
+        "France",
+        "Spain",
+        "Turkey",
+        "Russia",
+        "UK",
+        "Italy",
+        "Argentina",
+        "Australia",
+        "United Arab Emirates",
+        "Poland",
+        "Portugal"
+      ]
+    },
+    {
+      "name": "Iran",
+      "population": 81162788,
+      "global_score": 198,
+      "neighbors": [
+        "Israel",
+        "Russia",
+        "Syria",
+        "Jordan",
+        "United Arab Emirates",
+        "Israel"
+      ]
+    },
+    {
+      "name": "Turkey",
+      "population": 80745020,
+      "global_score": 197,
+      "neighbors": [
+        "Switzerland",
+        "Sweden",
+        "USA",
+        "Greece",
+        "Japan",
+        "France",
+        "Spain",
+        "Russia",
+        "UK",
+        "Italy",
+        "Argentina",
+        "Australia",
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "name": "Thailand",
+      "population": 69037513,
+      "global_score": 196,
+      "neighbors": []
+    },
+    {
+      "name": "UK",
+      "population": 66181585,
+      "global_score": 195,
+      "neighbors": [
+        "Switzerland",
+        "Sweden",
+        "USA",
+        "Greece",
+        "Japan",
+        "France",
+        "Spain",
+        "Russia",
+        "Italy",
+        "Argentina",
+        "Australia",
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "name": "France",
+      "population": 64979548,
+      "global_score": 194,
+      "neighbors": []
+    },
+    {
+      "name": "Italy",
+      "population": 59359900,
+      "global_score": 193,
+      "neighbors": []
+    },
+    {
+      "name": "Tanzania",
+      "population": 57310019,
+      "global_score": 192,
+      "neighbors": [
+        "Switzerland",
+        "Sweden",
+        "USA",
+        "Greece",
+        "Japan",
+        "France",
+        "Spain",
+        "Russia",
+        "Italy",
+        "Argentina",
+        "Australia",
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "name": "South Africa",
+      "population": 56717156,
+      "global_score": 191,
+      "neighbors": []
+    },
+    {
+      "name": "Myanmar",
+      "population": 53370609,
+      "global_score": 190,
+      "neighbors": []
+    },
+    {
+      "name": "South Korea",
+      "population": 50982212,
+      "global_score": 189,
+      "neighbors": []
+    },
+    {
+      "name": "Kenya",
+      "population": 49699862,
+      "global_score": 188,
+      "neighbors": []
+    },
+    {
+      "name": "Colombia",
+      "population": 49065615,
+      "global_score": 187,
+      "neighbors": []
+    },
+    {
+      "name": "Spain",
+      "population": 46354321,
+      "global_score": 186,
+      "neighbors": [
+        "Switzerland",
+        "Sweden",
+        "USA",
+        "Greece",
+        "Japan",
+        "France",
+        "Spain",
+        "Russia",
+        "Italy",
+        "Argentina",
+        "Australia",
+        "United Arab Emirates",
+        "Portugal"
+      ]
+    },
+    {
+      "name": "Argentina",
+      "population": 44271041,
+      "global_score": 185,
+      "neighbors": []
+    },
+    {
+      "name": "Uganda",
+      "population": 42862958,
+      "global_score": 184,
+      "neighbors": []
+    },
+    {
+      "name": "Ukraine",
+      "population": 44222947,
+      "global_score": 183,
+      "neighbors": []
+    },
+    {
+      "name": "Algeria",
+      "population": 41318142,
+      "global_score": 182,
+      "neighbors": []
+    },
+    {
+      "name": "Sudan",
+      "population": 40533330,
+      "global_score": 181,
+      "neighbors": []
+    },
+    {
+      "name": "Iraq",
+      "population": 38274618,
+      "global_score": 180,
+      "neighbors": []
+    },
+    {
+      "name": "Poland",
+      "population": 38170712,
+      "global_score": 179,
+      "neighbors": [
+        "Switzerland",
+        "Sweden",
+        "USA",
+        "Greece",
+        "Japan",
+        "France",
+        "Spain",
+        "Russia",
+        "Italy",
+        "Argentina",
+        "Australia",
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "name": "Canada",
+      "population": 36624199,
+      "global_score": 178,
+      "neighbors": []
+    },
+    {
+      "name": "Afghanistan",
+      "population": 35530081,
+      "global_score": 177,
+      "neighbors": []
+    },
+    {
+      "name": "Morocco",
+      "population": 35739580,
+      "global_score": 176,
+      "neighbors": []
+    },
+    {
+      "name": "Saudi Arabia",
+      "population": 32938213,
+      "global_score": 175,
+      "neighbors": []
+    },
+    {
+      "name": "Peru",
+      "population": 32165485,
+      "global_score": 174,
+      "neighbors": []
+    },
+    {
+      "name": "Venezuela",
+      "population": 31977065,
+      "global_score": 173,
+      "neighbors": []
+    },
+    {
+      "name": "Uzbekistan",
+      "population": 31910641,
+      "global_score": 172,
+      "neighbors": []
+    },
+    {
+      "name": "Malaysia",
+      "population": 31624264,
+      "global_score": 171,
+      "neighbors": []
+    },
+    {
+      "name": "Angola",
+      "population": 29784193,
+      "global_score": 170,
+      "neighbors": []
+    },
+    {
+      "name": "Mozambique",
+      "population": 29668834,
+      "global_score": 169,
+      "neighbors": []
+    },
+    {
+      "name": "Nepal",
+      "population": 29304998,
+      "global_score": 168,
+      "neighbors": []
+    },
+    {
+      "name": "Ghana",
+      "population": 28833629,
+      "global_score": 167,
+      "neighbors": []
+    },
+    {
+      "name": "Yemen",
+      "population": 28250420,
+      "global_score": 166,
+      "neighbors": []
+    },
+    {
+      "name": "Madagascar",
+      "population": 25570895,
+      "global_score": 165,
+      "neighbors": []
+    },
+    {
+      "name": "North Korea",
+      "population": 25490965,
+      "global_score": 164,
+      "neighbors": []
+    },
+    {
+      "name": "Australia",
+      "population": 24450561,
+      "global_score": 163,
+      "neighbors": []
+    },
+    {
+      "name": "Cameroon",
+      "population": 24053727,
+      "global_score": 162,
+      "neighbors": []
+    },
+    {
+      "name": "Taiwan",
+      "population": 23626456,
+      "global_score": 161,
+      "neighbors": []
+    },
+    {
+      "name": "Niger",
+      "population": 21477348,
+      "global_score": 160,
+      "neighbors": []
+    },
+    {
+      "name": "Sri Lanka",
+      "population": 20876917,
+      "global_score": 159,
+      "neighbors": []
+    },
+    {
+      "name": "Romania",
+      "population": 19679306,
+      "global_score": 158,
+      "neighbors": []
+    },
+    {
+      "name": "Malawi",
+      "population": 18622104,
+      "global_score": 157,
+      "neighbors": []
+    },
+    {
+      "name": "Mali",
+      "population": 18541980,
+      "global_score": 156,
+      "neighbors": []
+    },
+    {
+      "name": "Kazakhstan",
+      "population": 18204499,
+      "global_score": 155,
+      "neighbors": []
+    },
+    {
+      "name": "Syria",
+      "population": 18269868,
+      "global_score": 154,
+      "neighbors": []
+    },
+    {
+      "name": "Chile",
+      "population": 18054726,
+      "global_score": 153,
+      "neighbors": []
+    },
+    {
+      "name": "Zambia",
+      "population": 17094130,
+      "global_score": 152,
+      "neighbors": []
+    },
+    {
+      "name": "Guatemala",
+      "population": 16913503,
+      "global_score": 151,
+      "neighbors": []
+    },
+    {
+      "name": "Netherlands",
+      "population": 17035938,
+      "global_score": 150,
+      "neighbors": []
+    },
+    {
+      "name": "Zimbabwe",
+      "population": 16529904,
+      "global_score": 149,
+      "neighbors": []
+    },
+    {
+      "name": "Ecuador",
+      "population": 16624858,
+      "global_score": 148,
+      "neighbors": []
+    },
+    {
+      "name": "Senegal",
+      "population": 15850567,
+      "global_score": 147,
+      "neighbors": []
+    },
+    {
+      "name": "Cambodia",
+      "population": 16005373,
+      "global_score": 148,
+      "neighbors": []
+    },
+    {
+      "name": "Chad",
+      "population": 14899994,
+      "global_score": 147,
+      "neighbors": []
+    },
+    {
+      "name": "Somalia",
+      "population": 14742523,
+      "global_score": 146,
+      "neighbors": []
+    },
+    {
+      "name": "Guinea",
+      "population": 12717176,
+      "global_score": 145,
+      "neighbors": []
+    },
+    {
+      "name": "South Sudan",
+      "population": 12575714,
+      "global_score": 144,
+      "neighbors": []
+    },
+    {
+      "name": "Rwanda",
+      "population": 12208407,
+      "global_score": 143,
+      "neighbors": []
+    },
+    {
+      "name": "Tunisia",
+      "population": 11532127,
+      "global_score": 142,
+      "neighbors": []
+    },
+    {
+      "name": "Belgium",
+      "population": 11429336,
+      "global_score": 141,
+      "neighbors": []
+    },
+    {
+      "name": "Cuba",
+      "population": 11484636,
+      "global_score": 140,
+      "neighbors": []
+    },
+    {
+      "name": "Benin",
+      "population": 11175692,
+      "global_score": 139,
+      "neighbors": []
+    },
+    {
+      "name": "Burundi",
+      "population": 10864245,
+      "global_score": 138,
+      "neighbors": []
+    },
+    {
+      "name": "Bolivia",
+      "population": 11051600,
+      "global_score": 137,
+      "neighbors": []
+    },
+    {
+      "name": "Greece",
+      "population": 11159773,
+      "global_score": 136,
+      "neighbors": []
+    },
+    {
+      "name": "Dominican Republic",
+      "population": 10981229,
+      "global_score": 135,
+      "neighbors": []
+    },
+    {
+      "name": "Czechia",
+      "population": 10618303,
+      "global_score": 134,
+      "neighbors": []
+    },
+    {
+      "name": "Portugal",
+      "population": 10329506,
+      "global_score": 133,
+      "neighbors": [
+        "Switzerland",
+        "Sweden",
+        "USA",
+        "Greece",
+        "Japan",
+        "France",
+        "Spain",
+        "Russia",
+        "Italy",
+        "Argentina",
+        "Australia",
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "name": "Sweden",
+      "population": 9910701,
+      "global_score": 132,
+      "neighbors": [
+        "Switzerland",
+        "USA",
+        "Greece",
+        "Japan",
+        "France",
+        "Spain",
+        "Russia",
+        "Italy",
+        "Argentina",
+        "Australia",
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "name": "Azerbaijan",
+      "population": 9827589,
+      "global_score": 131,
+      "neighbors": []
+    },
+    {
+      "name": "Jordan",
+      "population": 9702353,
+      "global_score": 130,
+      "neighbors": []
+    },
+    {
+      "name": "Hungary",
+      "population": 9721559,
+      "global_score": 129,
+      "neighbors": []
+    },
+    {
+      "name": "United Arab Emirates",
+      "population": 9400145,
+      "global_score": 128,
+      "neighbors": []
+    },
+    {
+      "name": "Belarus",
+      "population": 9468338,
+      "global_score": 127,
+      "neighbors": []
+    },
+    {
+      "name": "Honduras",
+      "population": 9265067,
+      "global_score": 126,
+      "neighbors": []
+    },
+    {
+      "name": "Tajikistan",
+      "population": 8921343,
+      "global_score": 125,
+      "neighbors": []
+    },
+    {
+      "name": "Serbia",
+      "population": 8790574,
+      "global_score": 124,
+      "neighbors": []
+    },
+    {
+      "name": "Austria",
+      "population": 8735453,
+      "global_score": 123,
+      "neighbors": [
+        "Switzerland",
+        "Sweden",
+        "USA",
+        "Greece",
+        "Japan",
+        "France",
+        "Spain",
+        "Russia",
+        "Italy",
+        "Argentina",
+        "Australia",
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "name": "Switzerland",
+      "population": 8476005,
+      "global_score": 122,
+      "neighbors": []
+    },
+    {
+      "name": "Israel",
+      "population": 8321570,
+      "global_score": 121,
+      "neighbors": []
+    },
+    {
+      "name": "Papua New Guinea",
+      "population": 8251162,
+      "global_score": 120,
+      "neighbors": []
+    }
+  ],
+  "evolutions": [
+    {
+      "name": "Phoenix Feather",
+      "point_value": 100
+    },
+    {
+      "name": "Elder Wand",
+      "point_value": 500
+    }
+  ]
+}

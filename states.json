@@ -1,0 +1,785 @@
+{
+  "countries": [
+    {
+      "name": "Alabama",
+      "population": 4000000,
+      "global_score": 24,
+      "neighbors": [
+        "Florida",
+        "Georgia",
+        "Mississippi",
+        "Tennessee"
+      ],
+      "id": "A",
+      "climate": "temperate"
+    },
+    {
+      "name": "Alaska",
+      "population": 730000,
+      "global_score": 5,
+      "neighbors": [
+        "Hawaii",
+        "Washington"
+      ],
+      "id": "B",
+      "climate": "chill"
+    },
+    {
+      "name": "Arizona",
+      "population": 7000000,
+      "global_score": 31,
+      "neighbors": [
+        "New Mexico",
+        "California",
+        "Nevada",
+        "Utah"
+      ],
+      "id": "C",
+      "climate": "arid"
+    },
+    {
+      "name": "Arkansas",
+      "population": 3000000,
+      "global_score": 17,
+      "neighbors": [
+        "Louisiana",
+        "Mississippi",
+        "Missouri",
+        "Oklahoma",
+        "Tennessee",
+        "Texas"
+      ],
+      "id": "D",
+      "climate": "temperate"
+    },
+    {
+      "name": "California",
+      "population": 39500000,
+      "global_score": 50,
+      "neighbors": [
+        "Arizona",
+        "Nevada",
+        "Oregon",
+        "Hawaii",
+        "New York"
+      ],
+      "id": "E",
+      "climate": "temperate"
+    },
+    {
+      "name": "Colorado",
+      "population": 5600000,
+      "global_score": 33,
+      "neighbors": [
+        "Arizona",
+        "Kansas",
+        "Nebraska",
+        "New Mexico",
+        "Oklahoma",
+        "Utah",
+        "Wyoming"
+      ],
+      "id": "F",
+      "climate": "arid"
+    },
+    {
+      "name": "Connecticut",
+      "population": 3600000,
+      "global_score": 28,
+      "neighbors": [
+        "Massachusetts",
+        "New York",
+        "Rhode Island"
+      ],
+      "id": "G",
+      "climate": "chill"
+    },
+    {
+      "name": "Delaware",
+      "population": 1000000,
+      "global_score": 9,
+      "neighbors": [
+        "Maryland",
+        "New Jersey",
+        "Pennsylvania"
+      ],
+      "id": "H",
+      "climate": "chill"
+    },
+    {
+      "name": "Florida",
+      "population": 21000000,
+      "global_score": 47,
+      "neighbors": [
+        "Alabama",
+        "Georgia"
+      ],
+      "id": "I",
+      "climate": "tropical"
+    },
+    {
+      "name": "Georgia",
+      "population": 10400000,
+      "global_score": 42,
+      "neighbors": [
+        "Alabama",
+        "Florida",
+        "North Carolina",
+        "South Carolina",
+        "Tennessee"
+      ],
+      "id": "J",
+      "climate": "tropical"
+    },
+    {
+      "name": "Hawaii",
+      "population": 1400000,
+      "global_score": 13,
+      "neighbors": [
+        "Alaska",
+        "California"
+      ],
+      "id": "K",
+      "climate": "tropical"
+    },
+    {
+      "name": "Idaho",
+      "population": 1700000,
+      "global_score": 10,
+      "neighbors": [
+        "Montana",
+        "Nevada",
+        "Oregon",
+        "Utah",
+        "Washington",
+        "Wyoming"
+      ],
+      "id": "L",
+      "climate": "temperate"
+    },
+    {
+      "name": "Illinois",
+      "population": 12800000,
+      "global_score": 46,
+      "neighbors": [
+        "Indiana",
+        "Iowa",
+        "Michigan",
+        "Kentucky",
+        "Missouri",
+        "Wisconsin"
+      ],
+      "id": "M",
+      "climate": "temperate"
+    },
+    {
+      "name": "Indiana",
+      "population": 7000000,
+      "global_score": 35,
+      "neighbors": [
+        "Illinois",
+        "Kentucky",
+        "Michigan",
+        "Ohio"
+      ],
+      "id": "N",
+      "climate": "temperate"
+    },
+    {
+      "name": "Iowa",
+      "population": 3100000,
+      "global_score": 21,
+      "neighbors": [
+        "Illinois",
+        "Minnesota",
+        "Missouri",
+        "Nebraska",
+        "South Dakota",
+        "Wisconsin"
+      ],
+      "id": "O",
+      "climate": "temperate"
+    },
+    {
+      "name": "Kansas",
+      "population": 2900000,
+      "global_score": 18,
+      "neighbors": [
+        "Colorado",
+        "Missouri",
+        "Nebraska",
+        "Oklahoma"
+      ],
+      "id": "P",
+      "climate": "temperate"
+    },
+    {
+      "name": "Kentucky",
+      "population": 4400000,
+      "global_score": 23,
+      "neighbors": [
+        "Illinois",
+        "Indiana",
+        "Missouri",
+        "Ohio",
+        "Tennessee",
+        "Virginia",
+        "West Virginia"
+      ],
+      "id": "Q",
+      "climate": "temperate"
+    },
+    {
+      "name": "Louisiana",
+      "population": 4700000,
+      "global_score": 27,
+      "neighbors": [
+        "Arkansas",
+        "Mississippi",
+        "Texas"
+      ],
+      "id": "R",
+      "climate": "tropical"
+    },
+    {
+      "name": "Maine",
+      "population": 1300000,
+      "global_score": 8,
+      "neighbors": [
+        "New Hampshire"
+      ],
+      "id": "S",
+      "climate": "chill"
+    },
+    {
+      "name": "Maryland",
+      "population": 6000000,
+      "global_score": 36,
+      "neighbors": [
+        "Delaware",
+        "Pennsylvania",
+        "Virginia",
+        "West Virginia"
+      ],
+      "id": "T",
+      "climate": "temperate"
+    },
+    {
+      "name": "Massachusetts",
+      "population": 6900000,
+      "global_score": 41,
+      "neighbors": [
+        "Connecticut",
+        "New Hampshire",
+        "New York",
+        "Rhode Island",
+        "Vermont"
+      ],
+      "id": "U",
+      "climate": "chill"
+    },
+    {
+      "name": "Michigan",
+      "population": 10000000,
+      "global_score": 37,
+      "neighbors": [
+        "Illinois",
+        "Indiana",
+        "Ohio",
+        "Wisconsin"
+      ],
+      "id": "V",
+      "climate": "chill"
+    },
+    {
+      "name": "Minnesota",
+      "population": 5600000,
+      "global_score": 32,
+      "neighbors": [
+        "Iowa",
+        "North Dakota",
+        "South Dakota",
+        "Wisconsin"
+      ],
+      "id": "W",
+      "climate": "chill"
+    },
+    {
+      "name": "Mississippi",
+      "population": 3000000,
+      "global_score": 15,
+      "neighbors": [
+        "Alabama",
+        "Arkanssas",
+        "Louisiana",
+        "Tennessee"
+      ],
+      "id": "X",
+      "climate": "temperate"
+    },
+    {
+      "name": "Missouri",
+      "population": 6100000,
+      "global_score": 29,
+      "neighbors": [
+        "Arkansas",
+        "Illinois",
+        "Iowa",
+        "Kansas",
+        "Kentucky",
+        "Nebraska",
+        "Oklahoma",
+        "Tennessee"
+      ],
+      "id": "Y",
+      "climate": "temperate"
+    },
+    {
+      "name": "Montana",
+      "population": 1000000,
+      "global_score": 3,
+      "neighbors": [
+        "Idaho",
+        "North Dakota",
+        "South Dakota",
+        "Wyoming"
+      ],
+      "id": "Z",
+      "climate": "chill"
+    },
+    {
+      "name": "Nebraska",
+      "population": 1900000,
+      "global_score": 16,
+      "neighbors": [
+        "Colorado",
+        "Iowa",
+        "Kansas",
+        "Missouri",
+        "South Dakota",
+        "Wyoming"
+      ],
+      "id": "a",
+      "climate": "temperate"
+    },
+    {
+      "name": "Nevada",
+      "population": 3000000,
+      "global_score": 19,
+      "neighbors": [
+        "Arizona",
+        "California",
+        "Idaho",
+        "Oregon",
+        "Utah"
+      ],
+      "id": "b",
+      "climate": "arid"
+    },
+    {
+      "name": "New Hampshire",
+      "population": 1300000,
+      "global_score": 12,
+      "neighbors": [
+        "Maine",
+        "Massachusetts",
+        "Vermont"
+      ],
+      "id": "c",
+      "climate": "chill"
+    },
+    {
+      "name": "New Jersey",
+      "population": 9000000,
+      "global_score": 43,
+      "neighbors": [
+        "Delaware",
+        "New York",
+        "Pennsylvania"
+      ],
+      "id": "d",
+      "climate": "chill"
+    },
+    {
+      "name": "New Mexico",
+      "population": 2100000,
+      "global_score": 14,
+      "neighbors": [
+        "Arizona",
+        "Colorado",
+        "Oklahoma",
+        "Texas",
+        "Utah"
+      ],
+      "id": "e",
+      "climate": "arid"
+    },
+    {
+      "name": "New York",
+      "population": 20000000,
+      "global_score": 48,
+      "neighbors": [
+        "Connecticut",
+        "Massachusetts",
+        "New Jersey",
+        "Pennsylvania",
+        "Vermont",
+        "California"
+      ],
+      "id": "f",
+      "climate": "chill"
+    },
+    {
+      "name": "North Carolina",
+      "population": 10300000,
+      "global_score": 40,
+      "neighbors": [
+        "Georgia",
+        "South Carolina",
+        "Tennessee",
+        "Virginia"
+      ],
+      "id": "g",
+      "climate": "temperate"
+    },
+    {
+      "name": "North Dakota",
+      "population": 800000,
+      "global_score": 6,
+      "neighbors": [
+        "Minnesota",
+        "Montana",
+        "South Dakota"
+      ],
+      "id": "h",
+      "climate": "chill"
+    },
+    {
+      "name": "Ohio",
+      "population": 11700000,
+      "global_score": 44,
+      "neighbors": [
+        "Indiana",
+        "Kentucky",
+        "Michigan",
+        "Pennsylvania",
+        "West Virginia"
+      ],
+      "id": "i",
+      "climate": "chill"
+    },
+    {
+      "name": "Oklahoma",
+      "population": 4000000,
+      "global_score": 22,
+      "neighbors": [
+        "Arkansas",
+        "Colorado",
+        "Kansas",
+        "Missouri",
+        "New Mexico",
+        "Texas"
+      ],
+      "id": "j",
+      "climate": "arid"
+    },
+    {
+      "name": "Oregon",
+      "population": 4100000,
+      "global_score": 26,
+      "neighbors": [
+        "California",
+        "Idaho",
+        "Nevada",
+        "Washington"
+      ],
+      "id": "k",
+      "climate": "temperate"
+    },
+    {
+      "name": "Pennsylvania",
+      "population": 12800000,
+      "global_score": 45,
+      "neighbors": [
+        "Delaware",
+        "Maryland",
+        "New Jersey",
+        "New York",
+        "Ohio",
+        "West Virginia"
+      ],
+      "id": "l",
+      "climate": "chill"
+    },
+    {
+      "name": "Rhode Island",
+      "population": 1000000,
+      "global_score": 7,
+      "neighbors": [
+        "Connecticut",
+        "Massachusetts"
+      ],
+      "id": "m",
+      "climate": "chill"
+    },
+    {
+      "name": "South Carolina",
+      "population": 5100000,
+      "global_score": 25,
+      "neighbors": [
+        "Georgia",
+        "North Carolina"
+      ],
+      "id": "n",
+      "climate": "tropical"
+    },
+    {
+      "name": "South Dakota",
+      "population": 900000,
+      "global_score": 4,
+      "neighbors": [
+        "Iowa",
+        "Minnesota",
+        "Montana",
+        "Nebraska",
+        "North Dakota",
+        "Wyoming"
+      ],
+      "id": "o",
+      "climate": "chill"
+    },
+    {
+      "name": "Tennessee",
+      "population": 6800000,
+      "global_score": 34,
+      "neighbors": [
+        "Alabama",
+        "Arkansas",
+        "Georgia",
+        "Kentucky",
+        "Mississippi",
+        "Missouri",
+        "North Carolina",
+        "Virginia"
+      ],
+      "id": "p",
+      "climate": "temperate"
+    },
+    {
+      "name": "Texas",
+      "population": 28700000,
+      "global_score": 49,
+      "neighbors": [
+        "Arkansas",
+        "Louisiana",
+        "New Mexico",
+        "Oklahoma"
+      ],
+      "id": "q",
+      "climate": "arid"
+    },
+    {
+      "name": "Utah",
+      "population": 3100000,
+      "global_score": 20,
+      "neighbors": [
+        "Arizona",
+        "Colorado",
+        "Idaho",
+        "Nevada",
+        "New Mexico",
+        "Wyoming"
+      ],
+      "id": "r",
+      "climate": "temperate"
+    },
+    {
+      "name": "Vermont",
+      "population": 600000,
+      "global_score": 1,
+      "neighbors": [
+        "Massachusetts",
+        "New Hampshire",
+        "New York"
+      ],
+      "id": "s",
+      "climate": "chill"
+    },
+    {
+      "name": "Virginia",
+      "population": 8500000,
+      "global_score": 38,
+      "neighbors": [
+        "Kentucky",
+        "Maryland",
+        "North Carolina",
+        "Tennessee",
+        "West Virginia"
+      ],
+      "id": "t",
+      "climate": "temperate"
+    },
+    {
+      "name": "Washington",
+      "population": 7500000,
+      "global_score": 39,
+      "neighbors": [
+        "Idaho",
+        "Oregon",
+        "Hawaii",
+        "Alaska"
+      ],
+      "id": "u",
+      "climate": "temperate"
+    },
+    {
+      "name": "West Virginia",
+      "population": 1800000,
+      "global_score": 11,
+      "neighbors": [
+        "Kentucky",
+        "Maryland",
+        "Ohio",
+        "Pennsylvania",
+        "Virginia"
+      ],
+      "id": "v",
+      "climate": "temperate"
+    },
+    {
+      "name": "Wisconsin",
+      "population": 5800000,
+      "global_score": 30,
+      "neighbors": [
+        "Illinois",
+        "Iowa",
+        "Michigan",
+        "Minnesota"
+      ],
+      "id": "w",
+      "climate": "chill"
+    },
+    {
+      "name": "Wyoming",
+      "population": 500000,
+      "global_score": 2,
+      "neighbors": [
+        "Colorado",
+        "Idaho",
+        "Montana",
+        "Nebraska",
+        "South Dakota",
+        "Utah"
+      ],
+      "id": "x",
+      "climate": "chill"
+    }
+  ],
+  "evolutions": [
+    {
+      "name": "livestock",
+      "point_value": 10,
+      "e_type": "spread",
+      "boost": 0.1,
+      "trait": ""
+    },
+    {
+      "name": "fluids",
+      "point_value": 15,
+      "e_type": "spread",
+      "boost": 0.13,
+      "trait": ""
+    },
+    {
+      "name": "foodborne",
+      "point_value": 15,
+      "e_type": "spread",
+      "boost": 0.13,
+      "trait": ""
+    },
+    {
+      "name": "waterborne",
+      "point_value": 20,
+      "e_type": "spread",
+      "boost": 0.15,
+      "trait": ""
+    },
+    {
+      "name": "airborne",
+      "point_value": 20,
+      "e_type": "spread",
+      "boost": 0.2,
+      "trait": ""
+    },
+    {
+      "name": "contact",
+      "point_value": 25,
+      "e_type": "spread",
+      "boost": 0.25,
+      "trait": ""
+    },
+    {
+      "name": "coughing",
+      "point_value": 20,
+      "e_type": "virulency",
+      "boost": 0.099,
+      "trait": ""
+    },
+    {
+      "name": "rash",
+      "point_value": 25,
+      "e_type": "virulency",
+      "boost": 0.2,
+      "trait": ""
+    },
+    {
+      "name": "vomit",
+      "point_value": 30,
+      "e_type": "virulency",
+      "boost": 0.2,
+      "trait": ""
+    },
+    {
+      "name": "fatigue",
+      "point_value": 30,
+      "e_type": "virulency",
+      "boost": 0.2,
+      "trait": ""
+    },
+    {
+      "name": "fever",
+      "point_value": 40,
+      "e_type": "virulency",
+      "boost": 0.3,
+      "trait": ""
+    },
+    {
+      "name": "humidity",
+      "point_value": 15,
+      "e_type": "trait",
+      "boost": 0.0,
+      "trait": "tropical"
+    },
+    {
+      "name": "insulation",
+      "point_value": 20,
+      "e_type": "trait",
+      "boost": 0.0,
+      "trait": "chill"
+    },
+    {
+      "name": "hydration",
+      "point_value": 20,
+      "e_type": "trait",
+      "boost": 0.0,
+      "trait": "arid"
+    },
+    {
+      "name": "sweater",
+      "point_value": 25,
+      "e_type": "trait",
+      "boost": 0.0,
+      "trait": "temperate"
+    }
+  ]
+}

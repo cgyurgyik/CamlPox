@@ -1,0 +1,35 @@
+---------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                               |
+|              uuuuuuuuuuuuuLZZZZZZZZZZZZZZZZZZZZZZhhhhhhhhhhhhWWWWWWWWW                                                        |
+|            kkuuuuuuuuuuuuLLZZZZZZZZZZZZZZZZZZZZZZhhhhhhhhhhhhWWWWWWWWWW                                             SSSS      |
+|          kkkkkkkkkkkkkkkkLLLZZZZZZZZZZZZZZZZZZZZZZhhhhhhhhhhhhWWWWWWWWW                                             sSSSSS    |
+|        kkkkkkkkkkkkkkkkLLLLLLZZZZZZZZZZZZZZZZZZZZhhhhhhhhhhhhhWWWWWwwwVVVVVVVV                                fffffsssccSSS   |
+|      kkkkkkkkkkkkkkkkLLLLLLLLZZZxxxxxxxxxxxxxxxxxoooooooooooooWWWWwwwwwwww     VVVV                         fffffffsscccc     |
+|      EEkkkkkkkkkkkkkLLLLLLLLLLLLxxxxxxxxxxxxxxxxxooooooooooooWWWWWWwwwwwww   VVVVV  V                 ffffffffffffffUUU       |
+|     EEEEEEEEbbbbbbbLLLLLLLLLLLLLxxxxxxxxxxxxxxxxooooooooooooooWWWWWwwwww      VVVVVVV              fffffffffffffffmm          |
+|     EEEEEEEbbbbbbbbbbbbrrrrrrrrrxxxxxxxxxxxxxxxxaaaaaaaaaaaaaaaOOOOOOOOOMMM    VVVVVVV      iiiiilllllllllllldd G             |-------------
+|     EEEEEEEbbbbbbbbbbbbrrrrrrrrrrrrrrrxxxxxxxxxxxaaaaaaaaaaaaaaaaaOOOOOOOOMMMMNNNiiiiiiiiiiiiiiiilllllllllldddd               | !!! 0.00 % |
+|      EEEEEEEbbbbbbbbbbbrrrrrrrrrrrrrrFFFFFFFFFFFFFFFaaaaaaaaaaaaaYYYYYYYYYMMMMMNNNiiiiiiiiiiiiiivvvTTtttTTT TH                | @@@ 5.00 % |
+|      EEEEEEEEbbbbbbbbbrrrrrrrrrrrrrFFFFFFFFFFFFFFFFFPPPPPPPPPPPPPYYYYYYYYMMMMMNNNNiiiiiiiiiivvvvvvvvtttttttT                  | ### 7.00 % |
+|      EEEEEEEEEEbbbbbbrrrrrrrrrrrrFFFFFFFFFFFFFFFFFFPPPPPPPPPPPPPPYYYYYYYYYMMMMNNNQQQQQvvvvvttttttttttttttt                    | $$$ 14.0 % |
+|        EEEEEEEEEEbbbbbCCCCCCCCCFFFFFFFFFFFFFFFFFFPPPPPPPPPPPPPPPYYYYYYYYYYYQQQQQQQQQQttttttttgggggggggg                       | """ 21.0 % |
+|        EEEEEEEEEEEEbCCCCCCCCCCCeeeeeeeeeeeeejjjjjjjjjjjjjjjjjDDDDDDDDYYYYYppppppppppggggggggggggggg                           | ^^^ 28.0 % |
+|          EEEEEEEEEECCCCCCCCCCCCeeeeeeeeeeeeeqqqqqqjjjjjjjjjjjDDDDDDDDpppppppppppgggnnnnnnnnnggg                               | &&& 35.0 % |
+|              EEEEEECCCCCCCCCCCCeeeeeeeeeeeeeqqqqqqqjjjjjjjjjjDDDDDDDXXXXXAAAAAAJJJJJJJJJJnnnnnnn                              | *** 42.0 % |
+|                    CCCCCCCCCCCCeeeeeeeeeeeeeqqqqqqqqqqqqqqqqqDDDDDDXXXXXXAAAAAAJJJJJJJJJJJJJnn                                | ((( 49.0 % |
+|                        CCCCCCCCeeeeeeeeeeeeeqqqqqqqqqqqqqqqqqqRRRRRRXXXXXAAAAAAJJJJJJJJJJJJJJ                                 | ))) 56.0 % |
+|                                    qqqqqqqqqqqqqqqqqqqqqqqqqqqRRRRXXXXXXXAAAAAAAJJJJJJJJJJJJ                                  | ;;; 63.0 % |
+|                                      qqqqqqqqqqqqqqqqqqqqqqqqqRRRRRRRRXXXAAIIIIIIIIIIIIIIIIII                                 | +++ 70.0 % |
+|                                        qqqqqqqqqqqqqqqqqqqqqqqRRRRRRRRRR                 IIIII                                | === 77.0 % |
+|                                          qqq    qqqqqqqqqqqq                              IIIII                               | {{{ 85.0 % |
+|                                                    qqqqqqq                                IIIIII                              | }}} 92.0 % |
+|                BBBBBBB                               qqqq                                   IIII                              |-------------
+|              BBBBBBBBBBB                               qq                                                                     |
+|                BBBBBBBBBB                                                                                                     |
+|            BBBBBBBBBBBBBB                                                                                                     |
+|            BBBBBBBBBBBBBBBBB                                                                                                  |
+|              BBBBBBBBB    BBBB           K       K                                                                            |
+|                        B                             KK                                                                       |
+|                    B                                     KKKK                                                                 |
+|                                                                                                                               |
+--------------------------------------------------------------------------------------------------------------------------------|

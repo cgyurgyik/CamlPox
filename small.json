@@ -1,0 +1,40 @@
+{
+  "countries": [
+    {
+      "name": "Count1",
+      "population": 10,
+      "global_score": 50,
+      "neighbors": [
+        "Count2",
+        "Count1"
+      ]
+    },
+    {
+      "name": "Count2",
+      "population": 15,
+      "global_score": 80,
+      "neighbors": [
+        "Count3",
+        "Count1"
+      ]
+    },
+    {
+      "name": "Count3",
+      "population": 20,
+      "global_score": 100,
+      "neighbors": [
+        "Count2"
+      ]
+    }
+  ],
+  "evolutions": [
+    {
+      "name": "Phoenix Feather",
+      "point_value": 100
+    },
+    {
+      "name": "Elder Wand",
+      "point_value": 500
+    }
+  ]
+}

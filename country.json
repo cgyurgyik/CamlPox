@@ -1,0 +1,24 @@
+{
+  "countries": [
+    {
+      "name": "string",
+      "population": 0,
+      "global_score": 0,
+      "neighbors": [
+        "country1",
+        "country2"
+      ],
+      "id": "c",
+      "climate": "tropical"
+    }
+  ],
+  "evolutions": [
+    {
+      "name": "string",
+      "point_value": 0,
+      "e_type": "spread",
+      "boost": 0.0,
+      "trait": ""
+    }
+  ]
+}
