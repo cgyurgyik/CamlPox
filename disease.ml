@@ -1,6 +1,6 @@
 open Yojson.Basic.Util
 
-(**Types*)
+(*Types*)
 
 exception UnknownCountry of string
 exception Empty
