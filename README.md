@@ -2,6 +2,11 @@
 - Similar to the Plague, Inc. game; uses basic epidemic theory to replicate the spread of disease throughout the United States. Written in the functional language OCaml. More information on design can be found [here](https://cgyurgyik.github.io/documents/CamlPox.pdf), an overview of the second sprint.
 
 ## To Play:
+Required packages:
+- [unix](https://caml.inria.fr/pub/docs/manual-ocaml/libref/Unix.html)
+- [yojson](https://opam.ocaml.org/packages/yojson/)
+- [oUnit](https://github.com/gildor478/ounit)
+- [ANSITerminal](http://ansiterminal.forge.ocamlcore.org/ANSITerminal.html/ANSITerminal.html)
 Since a Makefile is provided, just run:
 ```make play```
 
