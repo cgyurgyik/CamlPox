@@ -1,4 +1,4 @@
-MODULES=disease command state main authors
+MODULES=disease command state main
 OBJECTS=$(MODULES:=.cmo)
 MLS=$(MODULES:=.ml)
 MLIS=$(MODULES:=.mli)
