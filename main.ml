@@ -411,7 +411,7 @@ let rec step dis st dis_type n d =
       print_evolve_list (get_curr_upgrades new_st);
       print_endline "";
       ANSITerminal.(print_string[yellow] 
-                      "\nNate Foster thinks highly of you now.\n");
+                      "\nWe think highly of you now.\n");
       print_endline ""; Pervasives.exit 0
     else
     if lost new_st then 
@@ -576,16 +576,16 @@ let main () =
     Welcome, your goal is to infect everybody in the great                        
     United States of America. You will have won once the entire                   
     population is DEAD!                                                           
-    Good luck, Nate Foster believes in you.                                       
+    Good luck.                                       
 ----------------------------------------------------------------------------------");
   print_string ("\x1b[0m");
   print_endline "";
-  play_game (from_json (Yojson.Basic.from_file "states.json"))
+  play_game (from_json (Yojson.Basic.from_file "maps/states.json"))
 
 (* Execute the game engine. *)
 let () = 
   ignore(Sys.command "clear");
-  index_of_dir "ascii.txt" print_file;
+  index_of_dir "load/ascii.txt" print_file;
   ignore(Sys.command("sleep 3s"));
-  print_screen "load.txt" ".2s";
+  print_screen "load/load.txt" ".2s";
   main ()
