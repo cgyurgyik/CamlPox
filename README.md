@@ -1,5 +1,9 @@
-### CamlPox
+# CamlPox
 Similar to the Plague, Inc. game; uses basic epidemic theory to replicate the spread of disease throughout the United States. Written in the functional language OCaml. More information on design can be found [here](https://cgyurgyik.github.io/documents/CamlPox.pdf), an overview of the second sprint.
+
+## To Play:
+Since a Makefile is provided, just run:
+```make play```
 
 ## Features
 - Portrays a realistic map of the United States with an underlying matrix that represents connections between each states, to include transcontinental flight connections.
