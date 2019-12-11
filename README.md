@@ -7,6 +7,7 @@ Required packages:
 - [yojson](https://opam.ocaml.org/packages/yojson/)
 - [oUnit](https://github.com/gildor478/ounit)
 - [ANSITerminal](http://ansiterminal.forge.ocamlcore.org/ANSITerminal.html/ANSITerminal.html)
+
 Since a Makefile is provided, just run:
 ```make play```
 
